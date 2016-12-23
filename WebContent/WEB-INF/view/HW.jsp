@@ -9,5 +9,9 @@ Spring is great!!
 
 Person name: ${param.personName}
 
+<br><br>
+
+Show message: ${message}
+
 </body>
 </html>
