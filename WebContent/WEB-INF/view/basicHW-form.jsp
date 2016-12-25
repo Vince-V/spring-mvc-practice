@@ -6,7 +6,7 @@
 	
 <body>
 	
-	<form action="processFormVersTwo" method="GET">
+	<form action="processFormVersThree" method="GET">
 	
 		<input type = "text" name="personName"
 		 	placeholder="Como te llamas?" />

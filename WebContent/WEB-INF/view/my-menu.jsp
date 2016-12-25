@@ -7,7 +7,7 @@
 
 <hr>
 
-<a href="displayForm">Basic Form</a>
+<a href="hola/displayForm">Basic Form</a>
 
 </body>
 
